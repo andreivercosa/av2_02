@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C01438B8-6F35-4969-8E14-0801C5740EB1}|Default">
+  <MonoDevelop.Ide.ItemProperties.avaliacao02__produtos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="avaliacao02_produtos/Program.cs">
+    <Files>
+      <File FileName="avaliacao02_produtos/Program.cs" Line="16" Column="23" />
+      <File FileName="avaliacao02_produtos/Categoria.cs" Line="6" Column="40" />
+      <File FileName="avaliacao02_produtos/Produto.cs" Line="9" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

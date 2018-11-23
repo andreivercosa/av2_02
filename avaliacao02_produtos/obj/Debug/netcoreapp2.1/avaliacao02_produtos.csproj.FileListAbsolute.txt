@@ -1,0 +1,11 @@
+/Users/aluno/Projects/avaliacao02_produtos/avaliacao02_produtos/bin/Debug/netcoreapp2.1/avaliacao02_produtos.deps.json
+/Users/aluno/Projects/avaliacao02_produtos/avaliacao02_produtos/bin/Debug/netcoreapp2.1/avaliacao02_produtos.runtimeconfig.json
+/Users/aluno/Projects/avaliacao02_produtos/avaliacao02_produtos/bin/Debug/netcoreapp2.1/avaliacao02_produtos.runtimeconfig.dev.json
+/Users/aluno/Projects/avaliacao02_produtos/avaliacao02_produtos/bin/Debug/netcoreapp2.1/avaliacao02_produtos.dll
+/Users/aluno/Projects/avaliacao02_produtos/avaliacao02_produtos/bin/Debug/netcoreapp2.1/avaliacao02_produtos.pdb
+/Users/aluno/Projects/avaliacao02_produtos/avaliacao02_produtos/obj/Debug/netcoreapp2.1/avaliacao02_produtos.csprojAssemblyReference.cache
+/Users/aluno/Projects/avaliacao02_produtos/avaliacao02_produtos/obj/Debug/netcoreapp2.1/avaliacao02_produtos.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/avaliacao02_produtos/avaliacao02_produtos/obj/Debug/netcoreapp2.1/avaliacao02_produtos.AssemblyInfoInputs.cache
+/Users/aluno/Projects/avaliacao02_produtos/avaliacao02_produtos/obj/Debug/netcoreapp2.1/avaliacao02_produtos.AssemblyInfo.cs
+/Users/aluno/Projects/avaliacao02_produtos/avaliacao02_produtos/obj/Debug/netcoreapp2.1/avaliacao02_produtos.dll
+/Users/aluno/Projects/avaliacao02_produtos/avaliacao02_produtos/obj/Debug/netcoreapp2.1/avaliacao02_produtos.pdb
